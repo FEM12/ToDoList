@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="guardar">Guardar tarea</string>
+
+    <string name="item">Texto del item</string>
+    <string name="cerrar">x</string>
 </resources>
